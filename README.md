@@ -14,7 +14,7 @@
 * Tomatoe
 * Potato
 * Celery
-* 
+
 # Musaka 2
 ## Ingrediants
 
