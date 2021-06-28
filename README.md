@@ -8,7 +8,7 @@
 
 [Musaka recepie 3](#Musaka2)
 
-# Musaka 1
+# Musaka 1 🍎 🧀
 ## Ingrediants
 
 * Tomatoe
@@ -28,3 +28,5 @@
 * Tomatoe
 * Potato
 * Celery
+|Column Header| Column2 Header|
+|---| |---| 
