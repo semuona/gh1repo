@@ -36,3 +36,5 @@
 |Item 2|Item33|
 
 ![Logo](googlelogo.png)
+
+- [x] Do you have computer?
