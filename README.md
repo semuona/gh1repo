@@ -30,7 +30,7 @@
 * Celery
 
 
-|Column1 Header| |Column2 Header|
-|---:||:---:| 
-|Item 1 ||Item 22|
-|Item 2||Item33|
+|Column1 Header|Column2 Header|
+|---:|:---:| 
+|Item 1|Item 22|
+|Item 2|Item33|
